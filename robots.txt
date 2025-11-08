@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://subway-surfers-unblock.github.io/sitemap.xml
